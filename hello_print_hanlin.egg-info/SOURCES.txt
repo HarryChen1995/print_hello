@@ -1,9 +1,0 @@
-LICENSE.txt
-README.md
-setup.py
-hello_print_hanlin/__init__.py
-hello_print_hanlin/print_hello.py
-hello_print_hanlin.egg-info/PKG-INFO
-hello_print_hanlin.egg-info/SOURCES.txt
-hello_print_hanlin.egg-info/dependency_links.txt
-hello_print_hanlin.egg-info/top_level.txt
